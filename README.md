@@ -59,61 +59,36 @@ mile == 1.60934 kilometers**
 
 #### Examples
 
- 
 
 **Input**
 
- 
+ 60
 
 **Output**
 
- 
+ 96.5
 
 ** **
 
- 
 
 **Input**
 
- 
+ 1
 
 **Output**
 
- 
+ 1.61
 
 ** **
 
- 
 
 **Input**
 
- 
+ 52.1113
 
 **Output**
 
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
+ 83.86
  
 ### Problem 4.                 
 Beverage Labels
