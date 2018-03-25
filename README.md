@@ -1,8 +1,6 @@
 # TeamHomework
 Group24`s homework
-1. Georgi added solution for problem 1 "Debit Card"!
-2. Bozhidar added solution for p02. Rectangle Area.
-3. Georgi documented the solution to problem 2.
+
 
 ### Problem 1. **Debit Card Number**
 
@@ -140,7 +138,72 @@ Nuka-Cola Quantum
 350ml Nuka-Cola Quantum:
 2100kcal, 490g sugars
  
+### Problem 5.* Character Stats
 
+Write a program, which **displays information** about a video game character. You will receive
+their **name**, **current health**, **maximum
+health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
+
+#### Examples        
+
+**Input**
+ Mayro
+5
+10
+9
+10
+
+**Output**
+ Name: Mayro
+Health: ||||||.....|
+Energy: ||||||||||.|
+
+** **
+
+**Input**
+ Bauser
+10
+10
+10
+10
+
+**Output**
+ Name: Bauser
+Health: ||||||||||||
+Energy: ||||||||||||
+
+**Input**
+ Loogi
+8
+20
+2
+14
+
+**Output**
+ Name: Loogi
+Health: |||||||||............|
+Energy:
+  |||............|
+
+** **
+
+**Input**
+ Toad
+0
+5
+0
+10
+
+**Output**
+ Name: Toad
+Health: |.....|
+Energy: |..........|
+
+#### Hints
+
+·       
+You can print a character **multiple** times, using []()new string(character,
+count).
 
 
  

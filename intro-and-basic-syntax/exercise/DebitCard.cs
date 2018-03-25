@@ -1,4 +1,4 @@
-﻿
+﻿//CONFIRMED from nigosto
 using System;
 
 namespace DebitCard
@@ -11,10 +11,10 @@ namespace DebitCard
             var firstNumber = int.Parse(Console.ReadLine());
             var secondNumber = int.Parse(Console.ReadLine());
             var thirdNumber = int.Parse(Console.ReadLine());
-            var fourthNumber = int.Parse(Console.ReadLine());
+            var lastNumber = int.Parse(Console.ReadLine());
 
 			//Print the entered four numbers in debit card format
-            Console.WriteLine("{0:D4} {1:D4} {2:D4} {3:D4}", firstNumber, secondNumber, thirdNumber, fourthNumber);
+            Console.WriteLine("{0:D4} {1:D4} {2:D4} {3:D4}", firstNumber, secondNumber, thirdNumber, lastNumber);
         }
     }
 }
