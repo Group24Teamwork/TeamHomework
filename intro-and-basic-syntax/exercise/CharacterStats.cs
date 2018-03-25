@@ -1,4 +1,5 @@
-﻿using System;
+﻿//CONFIRMED from nigosto
+using System;
 
 namespace p05._Character_Stats
 {
@@ -6,6 +7,7 @@ namespace p05._Character_Stats
     {
         static void Main(string[] args)
         {
+
 			//Read hero name from console
             string heroName = Console.ReadLine();
 			
